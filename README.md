@@ -20,11 +20,16 @@ The project features a Streamlit App for demonstration.
 
 **Model Name:** Claude-3.5-Sonnet
 
-**Dataset:** The input dataset consists of sensitive personal information, including:
+**Uses:** The model is employed to automate job applications on LinkedIn's easy-apply feature. It generates and fills answers to application questions using predefined personal information, streamlining the process and reducing time investment for job seekers.
+
+**Sources:** 
+- **Model Source:** The Claude-3.5-Sonnet model is accessed via its API provided by Anthropic.
+
+- **Dataset:** The input dataset consists of sensitive personal information, including:
 
 - LinkedIn credentials (username and password)
 - Personal details (name, email address, phone number, school, address, skills, work experience, etc.)
-- Predefined answers to frequently asked job application questions.
+- Predefined answers to frequently asked job application questions. 
   
 Due to the private nature of this information, the dataset is not uploaded to GitHub and is securely stored locally during project execution.
 
