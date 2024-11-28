@@ -23,7 +23,7 @@ The project features a Streamlit App for demonstration.
 - LinkedIn credentials (username and password)
 - Personal details (name, email address, phone number, school, address, skills, work experience, etc.)
 - Predefined answers to frequently asked job application questions.
-- 
+  
 Due to the sensitive nature of this data, it is not included in the public repository.
 
 # Resource links
