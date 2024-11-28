@@ -18,11 +18,16 @@ The project features a Streamlit App for demonstration.
 
 # Model card/dataset card
 
-**Model Name:** Claude-3.5-Sonnet
+**Model Name:**
 
-**Uses:** The model is employed to automate job applications on LinkedIn's easy-apply feature. It generates and fills answers to application questions using predefined personal information, streamlining the process and reducing time investment for job seekers.
+Claude-3.5-Sonnet
+
+**Uses:** 
+
+The model is employed to automate job applications on LinkedIn's easy-apply feature. It generates and fills answers to application questions using predefined personal information, streamlining the process and reducing time investment for job seekers.
 
 **Sources:** 
+
 - **Model Source:** The Claude-3.5-Sonnet model is accessed via its API provided by Anthropic.
 
 - **Dataset:** The input dataset consists of sensitive personal information, including:
