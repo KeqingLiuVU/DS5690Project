@@ -27,9 +27,9 @@ The project features a Streamlit App for demonstration.
 
 - **Dataset:** The input dataset consists of sensitive personal information, including:
 
-- LinkedIn credentials (username and password)
-- Personal details (name, email address, phone number, school, address, skills, work experience, etc.)
-- Predefined answers to frequently asked job application questions. 
+  - LinkedIn credentials (username and password)
+  - Personal details (name, email address, phone number, school, address, skills, work experience, etc.)
+  - Predefined answers to frequently asked job application questions. 
   
 Due to the private nature of this information, the dataset is not uploaded to GitHub and is securely stored locally during project execution.
 
