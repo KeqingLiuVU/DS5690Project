@@ -33,6 +33,12 @@ The project features a Streamlit App for demonstration.
   
   Due to the private nature of this information, the dataset is not uploaded to GitHub and is securely stored locally during project execution.
 
+**Permissions:**
+
+- **Model Permissions:** The model usage complies with Anthropic's terms and conditions.
+  
+- **Dataset Permissions:** The dataset includes sensitive personal information such as LinkedIn credentials (username and password), personal details (name, email, phone number, etc.), and predefined answers to frequently asked application questions. This information is privately owned and securely stored locally, ensuring no unauthorized access or sharing.
+
 **Training Parameters and Experimental Info:**
 
 This project does not involve training the Claude-3.5-Sonnet model directly. Instead, the model is accessed through its API for inference. The automation workflow integrates this model to enhance job application efficiency.
