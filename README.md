@@ -1,15 +1,15 @@
 # **Linkedin Jobs Easy Application**
 # Overview
 
-**Challenge:** Applying for over 50 jobs to secure an interview is a time-intensive process, with each application taking at least one minute. This demands a considerable time investment while offering minimal opportunities for personal growth.
+**Challenge:** Applying for over 50 jobs to secure an interview is a highly time-consuming process, with each application requiring at least one minute. This results in a significant time investment with minimal personal growth opportunities.
 
-**Goal:** The goal of this project is to create an application that automates the process of applying for easy-apply jobs on LinkedIn using my personal information, saving valuable time.
+**Goal:** This project aims to automate the process of applying for LinkedIn's easy-apply jobs using my personal information, saving valuable time and improving efficiency.
 
 **Approach**: The project integrates two key components:
 
-1. A workflow to interact with the LinkedIn website and automate the job application process.
+1. **Automation Workflow:** Interacts with LinkedIn's website to apply for jobs automatically.
    
-2. An AI-powered system to generate and fill answers for application questions during the process.
+2. **AI-Powered Answer Generation:** Utilizes an AI model to generate and fill answers for application questions during the process.
 
 # Presentation materials
 
@@ -49,9 +49,13 @@ The model is employed to automate job applications on LinkedIn's easy-apply feat
 
 This project does not involve training the Claude-3.5-Sonnet model directly. Instead, the model is accessed through its API for inference. The automation workflow integrates this model to enhance job application efficiency.
 
-**Limitations:**
+# Critical Analysis
 
-The model's responses are based on the input provided, and it may occasionally generate inaccurate or irrelevant answers, which could impact the application quality.
+**Impact:** The project addresses a major pain point for me by automating repetitive application tasks, saving significant time, and enabling focus on more personalized application strategies.
+
+**Limitations:** The model's responses depend on the input provided and may occasionally generate inaccurate or irrelevant answers, potentially affecting application quality. This reliance on AI for generating responses can sometimes lead to inconsistencies or errors.
+
+**Next Steps:** Future improvements could involve integrating additional error-checking mechanisms and expanding automation capabilities to cover non-easy-apply job applications.
 
 
 # Resource links
