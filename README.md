@@ -1,3 +1,4 @@
+# **Linkedin Jobs Easy Application**
 # Overview
 
 **Challenge:** Applying for over 50 jobs to secure an interview is a time-intensive process, with each application taking at least one minute. This demands a considerable time investment while offering minimal opportunities for personal growth.
