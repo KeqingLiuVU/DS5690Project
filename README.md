@@ -31,9 +31,11 @@ Due to the sensitive nature of this data, it is not included in the public repos
 **Referenced Code:**
 
 https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot
+
 https://github.com/madingess/EasyApplyBot
 
 **AI Model:**
+
 https://www.anthropic.com/claude/sonnet
 
 
