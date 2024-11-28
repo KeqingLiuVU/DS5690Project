@@ -31,7 +31,7 @@ The project features a Streamlit App for demonstration.
   - Personal details (name, email address, phone number, school, address, skills, work experience, etc.)
   - Predefined answers to frequently asked job application questions. 
   
-Due to the private nature of this information, the dataset is not uploaded to GitHub and is securely stored locally during project execution.
+  Due to the private nature of this information, the dataset is not uploaded to GitHub and is securely stored locally during project execution.
 
 **Training Parameters and Experimental Info:**
 
