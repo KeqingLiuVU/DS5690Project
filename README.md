@@ -18,7 +18,7 @@ The project features a Streamlit App for demonstration.
 
 # Model card/dataset card
 
-**Model:** The AI model used in this project is Claude-3.5-Sonnet.
+**Model Name:** Claude-3.5-Sonnet
 
 **Dataset:** The input dataset consists of sensitive personal information, including:
 
@@ -26,7 +26,16 @@ The project features a Streamlit App for demonstration.
 - Personal details (name, email address, phone number, school, address, skills, work experience, etc.)
 - Predefined answers to frequently asked job application questions.
   
-Due to the sensitive nature of this data, it is not included in the public repository.
+Due to the private nature of this information, the dataset is not uploaded to GitHub and is securely stored locally during project execution.
+
+**Training Parameters and Experimental Info:**
+
+This project does not involve training the Claude-3.5-Sonnet model directly. Instead, the model is accessed through its API for inference. The automation workflow integrates this model to enhance job application efficiency.
+
+**Limitations:**
+
+The model's responses are based on the input provided, and it may occasionally generate inaccurate or irrelevant answers, which could impact the application quality.
+
 
 # Resource links
 
