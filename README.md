@@ -14,6 +14,8 @@
 
 The project features a Streamlit App for demonstration.
 
+<img width="885" alt="Screenshot 2024-11-27 at 7 40 05 PM" src="https://github.com/user-attachments/assets/76f6b837-b858-4945-b06b-fbe71e10cff7">
+
 # Model card/dataset card
 
 **Model:** The AI model used in this project is Claude-3.5-Sonnet.
