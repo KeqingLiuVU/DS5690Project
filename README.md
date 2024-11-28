@@ -1,6 +1,6 @@
 # Overview
 
-**Challenge:** Applying for more than 50 jobs to secure interviews is time-consuming, requiring at least one minute per application. This represents a significant time investment with limited personal development benefits. 
+**Challenge:** Applying for over 50 jobs to secure an interview is a time-intensive process, with each application taking at least one minute. This demands a considerable time investment while offering minimal opportunities for personal growth.
 
 **Goal:** The goal of this project is to create an application that automates the process of applying for easy-apply jobs on LinkedIn using my personal information, saving valuable time.
 
