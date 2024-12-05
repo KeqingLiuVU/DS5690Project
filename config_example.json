@@ -1,0 +1,21 @@
+{
+    "credentials": {
+        "password": "",
+        "claude_api_key": ""
+    },
+    "search": {
+        "keywords": "Data Analyst",
+        "location": "United States"
+    },
+    "answers": {
+        "email": "",
+        "phone": "",
+        "phone country code": "United States (+1)",
+        "address": "",
+        "city": "Nashville",
+        "state": "Tennessee",
+        "zip code": "37203",
+        "country": "United States"
+        
+    }
+}
