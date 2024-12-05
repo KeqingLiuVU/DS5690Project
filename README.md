@@ -58,6 +58,13 @@ This project does not involve training the Claude-3.5-Sonnet model directly. Ins
 **Next Steps:** Future improvements could involve integrating additional error-checking mechanisms and expanding automation capabilities to cover non-easy-apply job applications.
 
 
+# User Interface
+
+I have demonstrated how to use the user interface in the video recording. However, due to the sensitive nature of this project, deploying the UI on Streamlit would require uploading sensitive information to a public platform. Therefore, I am unable to share a public Streamlit link.
+
+You can still access the UI locally on your computer by running the following command in your terminal: streamlit run app.py
+
+
 # Resource links
 
 **Referenced Code:**
